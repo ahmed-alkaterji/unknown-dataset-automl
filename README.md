@@ -1,6 +1,9 @@
 # EECE 490 — Unknown Dataset Hackathon
 
-**Team:** Dani Salman · Cihat el Sayid · Ahmed al katerji
+> **Team project.** Built with Dani Salman and Cihat el Sayid for the EECE 490 (Machine Learning) hackathon at AUB.
+> The original team repository is [DaniSalman/490-hackathon](https://github.com/DaniSalman/490-hackathon); this copy keeps its full commit history.
+
+**Team:** Dani Salman · Cihat el Sayid · Ahmed AlKaterji
 
 One program that reads an unfamiliar table, works out what it contains, and solves the task that comes with it.
 - **classification:** predicts a class;
